@@ -8,6 +8,6 @@ namespace hillel2
 {
     public class Class1
     {
-        public int q;
+        public int qerseqqq;
     }
 }
